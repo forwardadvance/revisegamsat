@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Actual Essay Plans</title>
+	<atom:link href="http://www.revisegamsat.com/topics/essay-questions/actual-essay-plans/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>My 70% Essay Plan</title>
+		<link>http://www.revisegamsat.com/essay-questions/sample-actual-essay-plan-401</link>
+		<comments>http://www.revisegamsat.com/essay-questions/sample-actual-essay-plan-401#comments</comments>
+		<pubDate>Sat, 12 Dec 2009 12:26:52 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Actual Essay Plans]]></category>
+		<category><![CDATA[GAMSAT Written Communication Section Essays]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=401</guid>
+		<description><![CDATA[The following are actual essay plans written by me for the 2009 London GAMSAT section II. I scored 70 for these essays. With hindsight I would have written them in a stronger way. These essays both follow the classic thesis/antithesis/synthesis structure with 2 key opposing points supported by example. The individual freedom vs legislation in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The following are actual essay plans written by me for the 2009 London GAMSAT section II. I scored 70 for these essays. With hindsight I would have written them in a stronger way. These essays both follow the classic thesis/antithesis/synthesis structure with 2 key opposing points supported by example.</p>
+<h3><strong>The individual freedom vs legislation in society essay</strong></h3>
+<p>The first set of quotes were to do with individual freedom vs legislation. To paraphrase as I can&#8217;t remember the details:</p>
+<ol>
+<li> Governments must strike a balance between individual freedom and legislation, individualism and collectivism &#8211; introduction.</li>
+<li>In a society like the UK we tend to legislate over health matters such as smoking since we have an NHS and therefore effectively collective ownership over the nation&#8217;s health (<em>I don&#8217;t necessary agree with this point</em>). Quote from CS Lewis about battle ships in a convoy. If one misbehaves the whole convoy is at risk. Society is bigger than the individual.</li>
+<li>The US errs more towards individual freedoms and has no NHS. Discussion of Obama&#8217;s heath care reforms. Quote from Ayn Rand about individual achievement being the highest good.</li>
+<li>Conclusion there&#8217;s no one best way, it depends on the social context and the people affected.</li>
+</ol>
+<p>Here I show one example and then a counter example and conclude that neither is perfect, it depends on the social context.</p>
+<h3><strong>The media produces only rubbish and we are drowning in it essay.</strong></h3>
+<ol>
+<li>The second set of quotes were to do with the media. The quote that caught my eye was: &#8220;The media produces only rubbish and we are drowning in it&#8221;</li>
+<li>The rise of the internet has reduced the budgets available to commercial broadcasters resulting in reduced standards and sensationalism. Discussion of competition from new media.</li>
+<li>The internet allows people to produce their own media, most of which is also rubbish.</li>
+<li>There is therefore a lot of rubbish.</li>
+<li>New media allows us to filter rubbish. The same technology that created the problem also solves it as producers are also critics, moderators, voters and retweeters, eg twitter, technorati, etc. Discussion of the recent Chinese Earthquake and how it was reported on Twitter within moments.</li>
+<li>Conclusion: the media does produce a lot of rubbish and this is due in large part to new technology. However the same technology allows filtering so we are not drowning in it.</li>
+</ol>
+<p>So the statement, though part true is irrelevant.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/essay-questions/sample-actual-essay-plan-401/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -47,7 +47,7 @@ var sfSettings = {"url":"http:\/\/www.revisegamsat.com\/wp-content\/plugins\/sim
 <link rel='prev' title='About Revise Gamsat' href='index.html%3Fp=2.html' />
 <link rel='shortlink' href='index.html%3Fp=466.html' />
 <link rel="stylesheet" type="text/css" href="detroit.css" />
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="http://www.revisegamsat.com/forum/" />
 	<link rel="stylesheet" type="text/css" href="highslide.css" />
 
 	<script type="text/javascript">
@@ -74,55 +74,7 @@ var sfSettings = {"url":"http:\/\/www.revisegamsat.com\/wp-content\/plugins\/sim
 		jspf(document).ready(function()
 		{ jspf("input[type=checkbox],input[type=radio]").prettyCheckboxes(); });
 	</script>
-	<script type="text/javascript" src="tiny_mce.js"></script>
-<script type="text/javascript" src="fm-tinymce.js.php.html"></script>
-	<script type="text/javascript">
-	tinyMCE.init({
-		canimage: 0,
-		canmedia: 0,
-		canfile: 0,
-		mode : "exact",
-		elements : "postitem",
-		theme : "advanced",
-		theme_advanced_layout_manager : "SimpleLayout",
-		skin : "o2k7",
-		content_css : "http://www.revisegamsat.com/wp-content/plugins/simple-forum/styles/editors/tinymce/content.css",
-		popup_css : "http://www.revisegamsat.com/wp-content/plugins/simple-forum/styles/editors/tinymce/dialog.css",
-		editor_css : "http://www.revisegamsat.com/wp-content/plugins/simple-forum/styles/editors/tinymce/ui.css",
-		language : "en",
-		directionality : "ltr",
-		auto_reset_designmode : true,
-		width : "100%",
-		height: "360",
-				relative_urls : false,
-				extended_valid_elements: "code",
-		apply_source_formatting : true,
-		paste_convert_middot_lists : true,
-		paste_remove_spans : true,
-		paste_remove_styles : true,
-		paste_convert_headers_to_strong : true,
-		paste_strip_class_attributes : "mso",
-		remove_redundant_brs : true,
-		forced_root_block : '',
-		force_p_newlines : true,
-		force_br_newlines : false,
-		remove_linebreaks: false,
-		convert_newlines_to_brs : false,
-		remove_redundant_brs : true,
-		entities:"38,amp,60,lt,62,gt",
-		plugins : "inlinepopups,safari,media,preview,spoiler,ddcode,spellchecker,paste",
-		theme_advanced_toolbar_location : "top",
-		theme_advanced_toolbar_align : "left",
-		theme_advanced_statusbar_location: "bottom",
-		theme_advanced_resizing : true,
-		theme_advanced_resizing_use_cookie : false,
-		theme_advanced_buttons1 : "bold,italic,underline,|,bullist,numlist,|,blockquote,outdent,indent,|,link,unlink,|,undo,redo,forecolor,charmap,|,image",
-		theme_advanced_buttons2 : "",
-		theme_advanced_buttons3 : "",
-		theme_advanced_buttons1_add : "media,|,spoiler,ddcode,|,|,pastetext,pasteword,|,selectall,preview,code,|,spellchecker"
-	});
-	</script>
-
+	
 </head>
 <body class="inner">
  <!-- page wrap -->
@@ -196,7 +148,7 @@ var sfSettings = {"url":"http:\/\/www.revisegamsat.com\/wp-content\/plugins\/sim
 <div class="inline_edit" id="sfthisuser"></div><table cellpadding="1" cellspacing="0"><tr>
 <td rowspan="2" width="45"><div class="sfuseravatar"><img class="sfavatar" src="guestdefault.png" width="40"  alt="" /></div></td><td class="sfusercell">
 <strong>You must be logged in to post</strong>
-<a href="index.php%3Fsf_ahah=permissions&amp;forum=0&amp;forumname=&amp;user=&amp;displayname=.html" onclick="return hs.htmlExpand(this, { objectType: 'ajax', preserveContent: true, width: 650, height: 570, anchor: 'top'} )"><img src="user-permissions.png" alt="" title="Your Permissions"/></a></td>
+</td>
 <td class="sflogincell">
 <a class="sficon" onclick="sfjtoggleLayer('sfloginform');"><img src="login.png" alt="" title="Login" /> Login </a>
 <a class="sficon" href="wp-login.php%3Faction=register&amp;view=forum.html"><img src="register.png" alt="" title="Register" /> Register </a>
@@ -210,7 +162,7 @@ var sfSettings = {"url":"http:\/\/www.revisegamsat.com\/wp-content\/plugins\/sim
 <p><label for="log">Username:&nbsp;<input type="text" class="sfcontrol" tabindex="84" name="log" id="log" value="" size="11" /></label></p>
 <p><label for="login_password">Password:&nbsp;<input type="password" class="sfcontrol" tabindex="85" name="pwd" id="login_password" value="" size="11" /></label></p>
 <p><input type="checkbox" tabindex="86" id="rememberme" name="rememberme" value="forever" /><label for="sfrememberme">&nbsp;Remember me</label></p><div class="sfclear"></div><p><input type="submit" class="sfcontrol" name="submit" id="submit" value="Login" tabindex="87" /></p>
-<input type="hidden" name="redirect_to" value="/forum/all" />
+<input type="hidden" name="redirect_to" value="/forum" />
 </form>
 <br /><p><a href="wp-login.php%3Faction=lostpassword&amp;view=forum.html">Lost Your Password?</a></p>
 </fieldset></div>
@@ -266,9 +218,7 @@ var sfSettings = {"url":"http:\/\/www.revisegamsat.com\/wp-content\/plugins\/sim
 </div>
 <div class="sfsearchblock">
 <div class="sfradioblock sfalignleft">
-<input type="hidden" name="forumslug" value="all" />
-<label class="sfradio" for="sfradio1">&nbsp;&nbsp;Current Forum</label><input type="radio" id="sfradio1" name="searchoption" value="Current" checked="checked" /><br />
-<label class="sfradio" for="sfradio2">&nbsp;&nbsp;All Forums</label><input type="radio" id="sfradio2" name="searchoption" value="All Forums"  />
+<label class="sfradio" for="sfradio2">&nbsp;&nbsp;All Forums</label><input type="radio" id="sfradio2" name="searchoption" value="All Forums" checked="checked" />
 </div>
 <div class="sfradioblock sfalignleft">
 <label class="sfradio" for="sfradio3">&nbsp;&nbsp;Match Any Word</label><input type="radio" id="sfradio3" name="searchtype" value="1" checked="checked" /><br />
@@ -285,16 +235,139 @@ var sfSettings = {"url":"http:\/\/www.revisegamsat.com\/wp-content\/plugins\/sim
 <p style="clear:both"><strong>Wildcard Usage:</strong><br />*&nbsp;&nbsp;&nbsp; matches any number of characters<br />%&nbsp;&nbsp;&nbsp; matches exactly one character</p></fieldset>
 </form>
 </div>
-<div id="sfcomm" class="sfmessagefail"><img class="sficon" src="failure.png" alt="" />Forum all Not Found</div>
-<script type="text/javascript">
-sfjmDisplay();</script>
-
-<div class="sfmessagestrip">
-There is no such forum named all
+<div id="group-1" class="sfblock">
+<a id="g1"></a>
+<div class="sfheading"><table><tr>
+<td class="sficoncell"><img class="" src="group.png" alt="" /></td>
+<td><p>GAMSAT<br /><small>For all gamsat related topics</small></p></td>
+<td class="sfadditemcell"><a class="sficon" href="index.html%3Fgroup=1&amp;xfeed=group"><img src="feedgroup.png" alt="" title="Group RSS" /> Group RSS &nbsp;</a></td>
+</tr></table></div>
+<table class="sfforumtable">
+<tr><th colspan="2">Forums</th>
+<th>Last Post</th>
+<th>Topics</th>
+<th>Posts</th>
+</tr>
+<tr id="forum-1">
+<td class="sficoncell "><img src="forum.png" alt="" /></td>
+<td class="sfforumitem "><table class="sfrowstatus"><tr><td style="display:none"></td></tr></table><div class="sfrowtitletop"><p><a href="http://www.revisegamsat.com/forum/gamsat-questions/">Gamsat Questions</a>
+</p>
+</div>
+<p><small>Discuss the Gamsat Exam here</small></p>
+</td>
+<td class="sfuserdetails "><p>March 25, 2010<br />8:44 pm by<br />theginsandwich<br /><a href="http://www.revisegamsat.com/forum/gamsat-questions/study-materials/#p20"><img src="gopost.png" alt="" title="Go to Post" /></a></p></td>
+<td class="sfcounts ">4</td>
+<td class="sfcounts ">6</td>
+</tr>
+<tr id="forum-8">
+<td class="sficoncell sfalt"><img src="forum.png" alt="" /></td>
+<td class="sfforumitem sfalt"><table class="sfrowstatus"><tr><td style="display:none"></td></tr></table><div class="sfrowtitletop"><p><a href="http://www.revisegamsat.com/forum/gamsat-essay-questions/">GAMSAT Written Communication Essay Questions</a>
+</p>
+</div>
+<p><small>Post essays or ask questions about essay style here</small></p>
+</td>
+<td class="sfuserdetails sfalt"><p>July 21, 2014<br />3:55 am by<br />Meir Ezra<br /><a href="http://www.revisegamsat.com/forum/gamsat-essay-questions/strategies-for-answering-a-gamsat-essay-question/#p23"><img src="gopost.png" alt="" title="Go to Post" /></a></p></td>
+<td class="sfcounts sfalt">2</td>
+<td class="sfcounts sfalt">5</td>
+</tr>
+<tr id="forum-9">
+<td class="sficoncell "><img src="forum.png" alt="" /></td>
+<td class="sfforumitem "><table class="sfrowstatus"><tr><td style="display:none"></td></tr></table><div class="sfrowtitletop"><p><a href="http://www.revisegamsat.com/forum/gamsat-reasoning-in-humanities-and-social-sciences-forum/">GAMSAT Reasoning in Humanities and Social Sciences forum</a>
+</p>
+</div>
+<p><small>Ask any questions about GAMSAT section 1</small></p>
+</td>
+<td align="center" class="">-</td>
+<td class="sfcounts "></td>
+<td class="sfcounts "></td>
+</tr>
+<tr id="forum-6">
+<td class="sficoncell sfalt"><img src="forum.png" alt="" /></td>
+<td class="sfforumitem sfalt"><table class="sfrowstatus"><tr><td style="display:none"></td></tr></table><div class="sfrowtitletop"><p><a href="http://www.revisegamsat.com/forum/gamsat-biology/">GAMSAT Biology</a>
+</p>
+</div>
+<p><small>Ask any GAMSAT biology related questions here</small></p>
+</td>
+<td class="sfuserdetails sfalt"><p>June 1, 2014<br />3:10 pm by<br />carpinteyroepa<br /><a href="http://www.revisegamsat.com/forum/gamsat-biology/biology-assumed-knowledge/#p22"><img src="gopost.png" alt="" title="Go to Post" /></a></p></td>
+<td class="sfcounts sfalt">1</td>
+<td class="sfcounts sfalt">5</td>
+</tr>
+<tr id="forum-2">
+<td class="sficoncell "><img src="forum.png" alt="" /></td>
+<td class="sfforumitem "><table class="sfrowstatus"><tr><td style="display:none"></td></tr></table><div class="sfrowtitletop"><p><a href="http://www.revisegamsat.com/forum/chemistry/">GAMSAT Chemistry</a>
+</p>
+</div>
+<p><small>Ask any chemistry related questions here.</small></p>
+</td>
+<td class="sfuserdetails "><p>March 2, 2010<br />1:48 am by<br />meparie<br /><a href="http://www.revisegamsat.com/forum/chemistry/raoults-law-sample-questions-unit-3/#p16"><img src="gopost.png" alt="" title="Go to Post" /></a></p></td>
+<td class="sfcounts ">3</td>
+<td class="sfcounts ">4</td>
+</tr>
+<tr id="forum-7">
+<td class="sficoncell sfalt"><img src="forum.png" alt="" /></td>
+<td class="sfforumitem sfalt"><table class="sfrowstatus"><tr><td style="display:none"></td></tr></table><div class="sfrowtitletop"><p><a href="http://www.revisegamsat.com/forum/gamsat-physics/">GAMSAT Physics</a>
+</p>
+</div>
+<p><small>Ask any GAMSAT physics related questions here</small></p>
+</td>
+<td align="center" class="sfalt">-</td>
+<td class="sfcounts sfalt"></td>
+<td class="sfcounts sfalt"></td>
+</tr>
+</table>
+</div>
+<div id="group-2" class="sfblock">
+<a id="g2"></a>
+<div class="sfheading"><table><tr>
+<td class="sficoncell"><img class="" src="group.png" alt="" /></td>
+<td><p>Graduate Access to Medicine<br /><small>Becoming a doctor</small></p></td>
+<td class="sfadditemcell"><a class="sficon" href="index.html%3Fgroup=2&amp;xfeed=group"><img src="feedgroup.png" alt="" title="Group RSS" /> Group RSS &nbsp;</a></td>
+</tr></table></div>
+<table class="sfforumtable">
+<tr><th colspan="2">Forums</th>
+<th>Last Post</th>
+<th>Topics</th>
+<th>Posts</th>
+</tr>
+<tr id="forum-3">
+<td class="sficoncell "><img src="forum.png" alt="" /></td>
+<td class="sfforumitem "><table class="sfrowstatus"><tr><td style="display:none"></td></tr></table><div class="sfrowtitletop"><p><a href="http://www.revisegamsat.com/forum/mature-students/">Mature Students</a>
+</p>
+</div>
+<p><small>A forum for older students</small></p>
+</td>
+<td align="center" class="">-</td>
+<td class="sfcounts "></td>
+<td class="sfcounts "></td>
+</tr>
+<tr id="forum-4">
+<td class="sficoncell sfalt"><img src="forum.png" alt="" /></td>
+<td class="sfforumitem sfalt"><table class="sfrowstatus"><tr><td style="display:none"></td></tr></table><div class="sfrowtitletop"><p><a href="http://www.revisegamsat.com/forum/parents/">Parents</a>
+</p>
+</div>
+<p><small>A forum for students with children</small></p>
+</td>
+<td align="center" class="sfalt">-</td>
+<td class="sfcounts sfalt"></td>
+<td class="sfcounts sfalt"></td>
+</tr>
+<tr id="forum-5">
+<td class="sficoncell "><img src="forum.png" alt="" /></td>
+<td class="sfforumitem "><table class="sfrowstatus"><tr><td style="display:none"></td></tr></table><div class="sfrowtitletop"><p><a href="http://www.revisegamsat.com/forum/graduate-entry-to-medicine/">Graduate Entry to Medicine</a>
+</p>
+</div>
+<p><small>A forum for anyone thinking of studying Graduate Entry mMedicine</small></p>
+</td>
+<td class="sfuserdetails "><p>March 18, 2010<br />5:04 pm by<br />Nicholas Johnson<br /><a href="http://www.revisegamsat.com/forum/graduate-entry-to-medicine/introduction-for-gamsat-2011/#p18"><img src="gopost.png" alt="" title="Go to Post" /></a></p></td>
+<td class="sfcounts ">1</td>
+<td class="sfcounts ">2</td>
+</tr>
+</table>
 </div>
 <div class="sfmessagestrip">
 <table cellpadding="0" cellspacing="0"><tr><td width="45%">
-</td><td align="center"><a href="index.html#forumtop"><img class="sficon" src="top.png" alt="" title="go to top" /></a><br />
+<a class="sficon sfalignleft" href="index.html%3Fxfeed=all"><img src="feedall.png" alt="" title="All RSS" /> All RSS </a>
+<img class="sficon sfalignleft" src="spacer.png" alt="" title="" /></td><td align="center"><a href="http://www.revisegamsat.com/forum#forumtop"><img class="sficon" src="top.png" alt="" title="go to top" /></a><br />
 </td><td class="sflogincell" width="45%"></td></tr></table></div>
 <div class="sfmessagestrip">
 <table><tr>
@@ -613,7 +686,7 @@ There is no such forum named all
      Arclite theme by <a href="http://digitalnature.ro">digitalnature</a> | powered by <a href="http://wordpress.org/">WordPress</a>     </p>
      <p>
      <a class="rss" href="feed.2">Entries (RSS)</a> and <a href="feed.3">Comments (RSS)</a> <a href="javascript:void(0);" class="toplink">TOP</a>
-     <!-- 43 queries. 0.758 seconds. -->
+     <!-- 44 queries. 0.830 seconds. -->
      </p>
     </div>
 
@@ -637,6 +710,6 @@ There is no such forum named all
   <!--[if gte IE 7]> <script type="text/javascript"> isIE = true; </script> <![endif]-->
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"52c0c7a266","applicationID":"3228574","transactionName":"MwABNUUHV0pQBkFdWQpKIgJDD1ZXHhVUU1M=","queueTime":0,"applicationTime":765,"ttGuid":"","agentToken":"","atts":"H0cCQw0dREQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"52c0c7a266","applicationID":"3228574","transactionName":"MwABNUUHV0pQBkFdWQpKIgJDD1ZXHhVUU1M=","queueTime":0,"applicationTime":838,"ttGuid":"","agentToken":"","atts":"H0cCQw0dREQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script></body>
 </html>
 

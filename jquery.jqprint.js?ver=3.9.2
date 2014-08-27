@@ -1,0 +1,60 @@
+// -----------------------------------------------------------------------
+// eros@recoding.it
+// jqprint 0.1
+// - 11/05/2009 - first sketch
+//
+// Printing plug-in for jQuery, evolution of jPrintArea: http://plugins.jquery.com/project/jPrintArea
+// requires jQuery 1.3.x
+//------------------------------------------------------------------------
+
+(function(jQuery) {
+    var opt;
+
+    jQuery.fn.jqprint = function (options) {
+        opt = jQuery.extend({}, jQuery.fn.jqprint.defaults, options);
+
+        var jQueryelement = (this instanceof jQuery) ? this : jQuery(this);
+        var jQueryiframe = jQuery("<iframe  />");
+
+        if (!opt.debug)
+        {
+            jQueryiframe.css({ position: "absolute", width: "0px", height: "0px", left: "-600px", top: "-600px" });
+        }
+
+        jQueryiframe.appendTo("body");
+
+        var doc = jQueryiframe[0].contentWindow.document;
+
+        if (opt.importCSS)
+        {
+            if (jQuery("link[media=print]").length > 0)
+            {
+                jQuery("link[media=print]").each( function() {
+                    doc.write("<link type='text/css' rel='stylesheet' href='" + jQuery(this).attr("href") + "' media='print' />");
+                });
+            }
+            else
+            {
+                jQuery("link").each( function() {
+                    doc.write("<link type='text/css' rel='stylesheet' href='" + jQuery(this).attr("href") + "' />");
+                });
+            }
+        }
+
+        doc.write(jQueryelement.outer());
+        doc.close();
+
+        jQueryiframe[0].contentWindow.focus();
+        setTimeout( function() { jQueryiframe[0].contentWindow.print(); }, 1000);
+    }
+
+    jQuery.fn.jqprint.defaults = {
+		debug: false,
+		importCSS: true
+	};
+
+    // Thanks to 9__, found at http://users.livejournal.com/9__/380664.html
+    jQuery.fn.outer = function() {
+      return jQuery(jQuery('<div></div>').html(this.clone())).html();
+    }
+})(jQuery);

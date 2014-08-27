@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Unit 34</title>
+	<atom:link href="http://www.revisegamsat.com/topics/practice-test-green-booklet/reasoning-in-biological-and-physical-sciences/unit-34/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>Unit 34 &#8211; Logarithmic Decline in Salmonella Population</title>
+		<link>http://www.revisegamsat.com/practice-test-green-booklet/reasoning-in-biological-and-physical-sciences/unit-34/unit-34-logarithmic-decline-in-salmonella-population-328</link>
+		<comments>http://www.revisegamsat.com/practice-test-green-booklet/reasoning-in-biological-and-physical-sciences/unit-34/unit-34-logarithmic-decline-in-salmonella-population-328#comments</comments>
+		<pubDate>Sun, 16 Aug 2009 18:34:52 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Unit 34]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=328</guid>
+		<description><![CDATA[This question requires you to realise that the results are presented on a log scale. The greatest decline occurs on day 4 even though the line is not as steep because the difference between 10&#60;sup&#62;7&#60;/sup&#62; and 10&#60;sup&#62;6&#60;/sup&#62; is 10 times greater than the difference between 10&#60;sup&#62;6&#60;/sup&#62; and 10&#60;sup&#62;5&#60;/sup&#62;. The reduction in size of the normal [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This question requires you to realise that the results are presented on a log scale. The greatest decline occurs on day 4 even though the line is not as steep because the difference between 10&lt;sup&gt;7&lt;/sup&gt; and 10&lt;sup&gt;6&lt;/sup&gt; is 10 times greater than the difference between 10&lt;sup&gt;6&lt;/sup&gt; and 10&lt;sup&gt;5&lt;/sup&gt;.</p>
+<p>The reduction in size of the normal bacterial population is <strong>much</strong> closer to 100 000 000 than to 1 000 000</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/practice-test-green-booklet/reasoning-in-biological-and-physical-sciences/unit-34/unit-34-logarithmic-decline-in-salmonella-population-328/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

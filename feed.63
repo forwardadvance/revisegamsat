@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Maths</title>
+	<atom:link href="http://www.revisegamsat.com/topics/maths/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>Maths for Gamsat</title>
+		<link>http://www.revisegamsat.com/maths/maths-for-gamsat-336</link>
+		<comments>http://www.revisegamsat.com/maths/maths-for-gamsat-336#comments</comments>
+		<pubDate>Sun, 16 Aug 2009 21:09:29 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Maths]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=336</guid>
+		<description><![CDATA[If you need to brush up on your maths for Gamsat there&#8217;s an excellent tutorial provided by Massey University. It covers arithmetic, algebra, calculus and trig. There are little tests throughout. Massey University Maths Tutorial]]></description>
+				<content:encoded><![CDATA[<p>If you need to brush up on your maths for Gamsat there&#8217;s an excellent tutorial provided by Massey University. It covers arithmetic, algebra, calculus and trig. There are little tests throughout.</p>
+<p><a href="http://mathsfirst.massey.ac.nz/MathsHelp.htm">Massey University Maths Tutorial</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/maths/maths-for-gamsat-336/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Order of Operations (BEDMAS)</title>
+		<link>http://www.revisegamsat.com/maths/order-of-operations-bedmas-333</link>
+		<comments>http://www.revisegamsat.com/maths/order-of-operations-bedmas-333#comments</comments>
+		<pubDate>Wed, 16 Sep 2009 21:07:51 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Equations]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Order of Operations (BEDMAS)]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=333</guid>
+		<description><![CDATA[Equations must be tackled in a specific order. An acronym to help remember this order is BEDMAS Brackets Exponent Division Multiplication Addition Subtraction For more information and an excellent tutorial see Massey University BEDMAS tutorial]]></description>
+				<content:encoded><![CDATA[<p>Equations must be tackled in a specific order. An acronym to help remember this order is BEDMAS</p>
+<ol>
+<li>Brackets</li>
+<li>Exponent</li>
+<li>Division</li>
+<li>Multiplication</li>
+<li>Addition</li>
+<li>Subtraction</li>
+</ol>
+<p>For more information and an excellent tutorial see <a href="http://mathsfirst.massey.ac.nz/Algebra/OrderOfOp/orderofop.htm" target="_blank">Massey University BEDMAS tutorial</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/maths/order-of-operations-bedmas-333/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Inverse Operations</title>
+		<link>http://www.revisegamsat.com/maths/equations/inverse-operations/inverse-operations-340</link>
+		<comments>http://www.revisegamsat.com/maths/equations/inverse-operations/inverse-operations-340#comments</comments>
+		<pubDate>Wed, 16 Sep 2009 21:27:43 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Inverse Operations]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=340</guid>
+		<description><![CDATA[Inverse operation undo each other. See the Massey University inverse operations tutorial]]></description>
+				<content:encoded><![CDATA[<p>Inverse operation undo each other.</p>
+<p><a href="http://mathsfirst.massey.ac.nz/Algebra/InvFun/InvOp.htm" target="_self">See the Massey University inverse operations tutorial</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/maths/equations/inverse-operations/inverse-operations-340/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rearranging Equations</title>
+		<link>http://www.revisegamsat.com/maths/rearranging-equations-343</link>
+		<comments>http://www.revisegamsat.com/maths/rearranging-equations-343#comments</comments>
+		<pubDate>Wed, 16 Sep 2009 21:34:14 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Equations]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Rearranging Equations]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=343</guid>
+		<description><![CDATA[Massey has an excellent tutorial on rearranging equations. Massey Equations Tutorial]]></description>
+				<content:encoded><![CDATA[<p>Massey has an excellent tutorial on rearranging equations.</p>
+<p><a href="http://mathsfirst.massey.ac.nz/Algebra/rearrFormulae/rearr.htm" target="_blank">Massey Equations Tutorial</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/maths/rearranging-equations-343/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Log scale</title>
+		<link>http://www.revisegamsat.com/sample-questions-blue-booklet/reasoning-in-biological-and-physical-sciences-sample-questions-blue-booklet/unit-19/log-scale-191</link>
+		<comments>http://www.revisegamsat.com/sample-questions-blue-booklet/reasoning-in-biological-and-physical-sciences-sample-questions-blue-booklet/unit-19/log-scale-191#comments</comments>
+		<pubDate>Thu, 17 Sep 2009 17:32:37 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Log Scale]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Unit 19]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=191</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/pP3NunYYhzk&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/pP3NunYYhzk&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/sample-questions-blue-booklet/reasoning-in-biological-and-physical-sciences-sample-questions-blue-booklet/unit-19/log-scale-191/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

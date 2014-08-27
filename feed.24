@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Thermodynamics</title>
+	<atom:link href="http://www.revisegamsat.com/topics/chemistry/thermodynamics/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>Gibbs Free Energy in Exothermic and Endothermic Reactions</title>
+		<link>http://www.revisegamsat.com/chemistry/gibbs-41</link>
+		<comments>http://www.revisegamsat.com/chemistry/gibbs-41#comments</comments>
+		<pubDate>Fri, 07 Aug 2009 15:44:24 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Gibbs Free Energy]]></category>
+		<category><![CDATA[Thermodynamics]]></category>
+		<category><![CDATA[Unit 15]]></category>
+		<category><![CDATA[Unit 33]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=41</guid>
+		<description><![CDATA[Gibbs free energy is a useful concept which lets us determine how likely a reaction is to take place spontaneously. It is defined using the following equation: ΔG = ΔH &#8211; TΔS A reaction will take place if it creates a reduction in Gibbs free energy, ie ΔG &#60; 0. Gibbs energy is reduced if [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Gibbs free energy is a useful concept which lets us determine how likely a reaction is to take place spontaneously. It is defined using the following equation:</p>
+<p>ΔG = ΔH &#8211; TΔS</p>
+<ol>
+<li>A reaction will take place if it creates a reduction in Gibbs free energy, ie ΔG &lt; 0.</li>
+<li>Gibbs energy is reduced if H is reduced. H is the heat energy locked up in the system.</li>
+<li>Gibbs energy is reduced if S is increased. S is a measure of Entropy or Disorder.</li>
+</ol>
+<p>A reaction is most likely to happen if ΔH &lt; 0 and ΔS &gt; 0, ie if the system enters a lower energy state and becomes more disordered.</p>
+<p><strong>Exothermic and Endothermic reactions</strong></p>
+<ol>
+<li>In an exothermic reaction heat is given out so heat energy in the system is reduced. ΔH &lt;0. This is favourable.</li>
+<li>In an endothermic reaction heat is taken in so heat energy in the system is increased. ΔH &gt;0. This is unfavourable</li>
+</ol>
+<p>An Endothermic reaction can still take place if it results in a large enough increase in entropy, ie ΔS &gt; 0.</p>
+<p>Water can melt even though this is an endothermic reaction since liquid water is less organised and therefore has a higher entropy than solid crystalline ice.</p>
+<p>Polythene will shrink in an oven even though this is an endothermic reaction (it requires heat to take place). This is because the shrunken polythene is less ordered and has higher entropy.</p>
+<p>For more information on answering these sorts of questions see the <a href="http://chemed.chem.purdue.edu/genchem/topicreview/bp/ch21/gibbs.php" target="_blank">Bodner Research Web</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/gibbs-41/feed</wfw:commentRss>
+		<slash:comments>49</slash:comments>
+		</item>
+		<item>
+		<title>Enthalpy</title>
+		<link>http://www.revisegamsat.com/chemistry/enthalpy-15</link>
+		<comments>http://www.revisegamsat.com/chemistry/enthalpy-15#comments</comments>
+		<pubDate>Mon, 07 Sep 2009 11:10:56 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Enthalpy]]></category>
+		<category><![CDATA[Sample Questions (Blue Booklet)]]></category>
+		<category><![CDATA[Thermodynamics]]></category>
+		<category><![CDATA[Unit 15]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=15</guid>
+		<description><![CDATA[Enthalpy is heat]]></description>
+				<content:encoded><![CDATA[<p>Enthalpy is heat</p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/MI-RfLYyx0w&#038;color1=0xb1b1b1&#038;color2=0xcfcfcf&#038;hl=en&#038;feature=player_embedded&#038;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/MI-RfLYyx0w&#038;color1=0xb1b1b1&#038;color2=0xcfcfcf&#038;hl=en&#038;feature=player_embedded&#038;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="425" height="344"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/enthalpy-15/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The thermodynamics song</title>
+		<link>http://www.revisegamsat.com/chemistry/the-second-law-of-thermodynamics-song-21</link>
+		<comments>http://www.revisegamsat.com/chemistry/the-second-law-of-thermodynamics-song-21#comments</comments>
+		<pubDate>Mon, 07 Sep 2009 12:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Thermodynamics]]></category>
+		<category><![CDATA[Unit 15]]></category>
+		<category><![CDATA[Unit 33]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=21</guid>
+		<description><![CDATA[Oh you can&#8217;t pass heat from a cooler to a hotter! You can try it if you you like but you&#8217;re far better notter!]]></description>
+				<content:encoded><![CDATA[<p>Oh you can&#8217;t pass heat from a cooler to a hotter! You can try it if you you like but you&#8217;re far better notter!</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/KTHiIwxcexI&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/KTHiIwxcexI&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/the-second-law-of-thermodynamics-song-21/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Thermodynamics, entropy and Gibbs Free Energy introduction from the Chem Guy</title>
+		<link>http://www.revisegamsat.com/chemistry/thermodynamics-introduction-from-the-chem-guy-26</link>
+		<comments>http://www.revisegamsat.com/chemistry/thermodynamics-introduction-from-the-chem-guy-26#comments</comments>
+		<pubDate>Mon, 07 Sep 2009 12:25:15 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Gibbs Free Energy]]></category>
+		<category><![CDATA[Practice Test (Green Booklet)]]></category>
+		<category><![CDATA[Sample Questions (Blue Booklet)]]></category>
+		<category><![CDATA[Thermodynamics]]></category>
+		<category><![CDATA[Unit 15]]></category>
+		<category><![CDATA[Unit 33]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=26</guid>
+		<description><![CDATA[Gibbs free energy and thermodynamics are topic which come up year on year. The Chemistry Guy gives a good introduction to Thermodynamics.]]></description>
+				<content:encoded><![CDATA[<p>Gibbs free energy and thermodynamics are topic which come up year on year. The Chemistry Guy gives a good introduction to Thermodynamics.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/B4SFv_2Skdc&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/B4SFv_2Skdc&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/94p9ZfTjeKc&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/94p9ZfTjeKc&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/m_L2rwbQdE8&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/m_L2rwbQdE8&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/x95klPIOeu4&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/x95klPIOeu4&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/thermodynamics-introduction-from-the-chem-guy-26/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

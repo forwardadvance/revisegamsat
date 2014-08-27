@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Electrophilic Addition reactions</title>
+	<atom:link href="http://www.revisegamsat.com/topics/chemistry/organic-chemistry/electrophilic-addition-reactions/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>Electrophilic Addition Reactions</title>
+		<link>http://www.revisegamsat.com/chemistry/electrophilic-reactions-361</link>
+		<comments>http://www.revisegamsat.com/chemistry/electrophilic-reactions-361#comments</comments>
+		<pubDate>Fri, 16 Oct 2009 22:13:55 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Electrophilic Addition reactions]]></category>
+		<category><![CDATA[Organic Chemistry]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=361</guid>
+		<description><![CDATA[Electrophilic reactions occur when a polar molecule attacks a double bond in a carbon chain.]]></description>
+				<content:encoded><![CDATA[<p>Electrophilic reactions occur when a polar molecule attacks a double bond in a carbon chain.</p>
+<p><object width="500" height="405"><param name="movie" value="http://www.youtube.com/v/8l0uRBYgXH0&#038;hl=en&#038;fs=1&#038;border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/8l0uRBYgXH0&#038;hl=en&#038;fs=1&#038;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="405"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/electrophilic-reactions-361/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

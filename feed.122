@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Unit 36</title>
+	<atom:link href="http://www.revisegamsat.com/topics/practice-test-green-booklet/reasoning-in-biological-and-physical-sciences/unit-36/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>Inverse Square Law</title>
+		<link>http://www.revisegamsat.com/physics/inverse-square-law-194</link>
+		<comments>http://www.revisegamsat.com/physics/inverse-square-law-194#comments</comments>
+		<pubDate>Sun, 13 Sep 2009 17:41:52 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Inverse Square Law]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Unit 36]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=194</guid>
+		<description><![CDATA[The inverse square law applies to gravity and magnetic charges. force = sum of charges / distance2]]></description>
+				<content:encoded><![CDATA[<ol>
+<li>The inverse square law applies to gravity and magnetic charges.</li>
+<li>force = sum of charges / distance<sup>2</sup></li>
+</ol>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/uFsMw1hT1u4&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="640" height="385" src="http://www.youtube.com/v/uFsMw1hT1u4&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/physics/inverse-square-law-194/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
