@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Chemistry Basics</title>
+	<atom:link href="http://www.revisegamsat.com/tags/chemistry-basics/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>Ionisation Energy</title>
+		<link>http://www.revisegamsat.com/chemistry/ionisation-energy-10</link>
+		<comments>http://www.revisegamsat.com/chemistry/ionisation-energy-10#comments</comments>
+		<pubDate>Sat, 05 Sep 2009 22:49:31 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Chemistry Basics]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=10</guid>
+		<description><![CDATA[Ionisation Energy The amount of energy needed to steel an electron away from an atom. Ionisation energy increases from left to right as the atoms are heavier and the nuclei have more charge. Metals on the left of the periodic table tend to loose electrons as they have a low ionisation energy Box notation can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>Ionisation Energy</h2>
+<p>The amount of energy needed to steel an electron away from an atom.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://www.youtube.com/v/Mmti4kKDcqA&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;feature=player_embedded&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/Mmti4kKDcqA&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;feature=player_embedded&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Ionisation energy increases from left to right as the atoms are heavier and the nuclei have more charge. Metals on the left of the periodic table tend to loose electrons as they have a low ionisation energy</p>
+<p><object id="VideoPlayback" style="width: 400px; height: 326px;" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="100" height="100" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://video.google.co.uk/googleplayer.swf?docid=1418093568748188816&amp;hl=en&amp;fs=true" /><param name="allowfullscreen" value="true" /><embed id="VideoPlayback" style="width: 400px; height: 326px;" type="application/x-shockwave-flash" width="100" height="100" src="http://video.google.co.uk/googleplayer.swf?docid=1418093568748188816&amp;hl=en&amp;fs=true" allowfullscreen="true"></embed></object></p>
+<p>Box notation can be used to show electrons in subshells.<br />
+Valence electrons are much easier to remove than core electrons</p>
+<p>Review</p>
+<p><a href="http://www.s-cool.co.uk/alevel/chemistry/atomic-structure/ionisation-energy.html">http://www.s-cool.co.uk/alevel/chemistry/atomic-structure/ionisation-energy.html</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/ionisation-energy-10/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

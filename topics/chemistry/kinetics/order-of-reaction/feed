@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Order of Reaction</title>
+	<atom:link href="http://www.revisegamsat.com/topics/chemistry/kinetics/order-of-reaction/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>Rate Law and Orders of Reaction</title>
+		<link>http://www.revisegamsat.com/chemistry/rate-law-and-orders-of-reaction-283</link>
+		<comments>http://www.revisegamsat.com/chemistry/rate-law-and-orders-of-reaction-283#comments</comments>
+		<pubDate>Tue, 15 Sep 2009 16:57:14 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Kinetics]]></category>
+		<category><![CDATA[Order of Reaction]]></category>
+		<category><![CDATA[Unit 13]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=283</guid>
+		<description><![CDATA[The order of a reaction determines how much faster the reaction will go if the concentration of reactant is increased Rate = K[CO2]n]]></description>
+				<content:encoded><![CDATA[<ol>
+<li>The order of a reaction determines how much faster the reaction will go if the concentration of reactant is increased</li>
+<li>Rate = K[CO<sub>2</sub>]<sup>n</sup></li>
+</ol>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/_HA1se_gyvs&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/_HA1se_gyvs&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/rate-law-and-orders-of-reaction-283/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

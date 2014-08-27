@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Essay TIming</title>
+	<atom:link href="http://www.revisegamsat.com/topics/essay-questions/essay-timing/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>Essay Timing</title>
+		<link>http://www.revisegamsat.com/essay-questions/essay-timing-422</link>
+		<comments>http://www.revisegamsat.com/essay-questions/essay-timing-422#comments</comments>
+		<pubDate>Tue, 15 Dec 2009 00:08:45 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Essay TIming]]></category>
+		<category><![CDATA[GAMSAT Written Communication Section Essays]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=422</guid>
+		<description><![CDATA[The time limit for the section II is one hour. You therefore have to write 2 essays in 30 minutes each which is quite a tough thing to do. This takes timing and organization and is one of the issues that most people struggle with. Within this timeframe you must write an introduction, a decent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The time limit for the section II is one hour. You therefore have to write 2 essays in 30 minutes each which is quite a tough thing to do. This takes timing and organization and is one of the issues that most people struggle with. Within this timeframe you must write an introduction, a decent argument and a good conclusion drawing the threads together and re-iterating the main points. I strongly suggest that you spend some time practicing writing 30 minute essays, ensuring that you get all the necessary sections in.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/essay-questions/essay-timing-422/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

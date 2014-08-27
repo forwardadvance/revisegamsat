@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Sample Questions (Blue Booklet)</title>
+	<atom:link href="http://www.revisegamsat.com/topics/sample-questions-blue-booklet/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>Gibbs Free Energy in Exothermic and Endothermic Reactions</title>
+		<link>http://www.revisegamsat.com/chemistry/gibbs-41</link>
+		<comments>http://www.revisegamsat.com/chemistry/gibbs-41#comments</comments>
+		<pubDate>Fri, 07 Aug 2009 15:44:24 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Gibbs Free Energy]]></category>
+		<category><![CDATA[Thermodynamics]]></category>
+		<category><![CDATA[Unit 15]]></category>
+		<category><![CDATA[Unit 33]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=41</guid>
+		<description><![CDATA[Gibbs free energy is a useful concept which lets us determine how likely a reaction is to take place spontaneously. It is defined using the following equation: ΔG = ΔH &#8211; TΔS A reaction will take place if it creates a reduction in Gibbs free energy, ie ΔG &#60; 0. Gibbs energy is reduced if [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Gibbs free energy is a useful concept which lets us determine how likely a reaction is to take place spontaneously. It is defined using the following equation:</p>
+<p>ΔG = ΔH &#8211; TΔS</p>
+<ol>
+<li>A reaction will take place if it creates a reduction in Gibbs free energy, ie ΔG &lt; 0.</li>
+<li>Gibbs energy is reduced if H is reduced. H is the heat energy locked up in the system.</li>
+<li>Gibbs energy is reduced if S is increased. S is a measure of Entropy or Disorder.</li>
+</ol>
+<p>A reaction is most likely to happen if ΔH &lt; 0 and ΔS &gt; 0, ie if the system enters a lower energy state and becomes more disordered.</p>
+<p><strong>Exothermic and Endothermic reactions</strong></p>
+<ol>
+<li>In an exothermic reaction heat is given out so heat energy in the system is reduced. ΔH &lt;0. This is favourable.</li>
+<li>In an endothermic reaction heat is taken in so heat energy in the system is increased. ΔH &gt;0. This is unfavourable</li>
+</ol>
+<p>An Endothermic reaction can still take place if it results in a large enough increase in entropy, ie ΔS &gt; 0.</p>
+<p>Water can melt even though this is an endothermic reaction since liquid water is less organised and therefore has a higher entropy than solid crystalline ice.</p>
+<p>Polythene will shrink in an oven even though this is an endothermic reaction (it requires heat to take place). This is because the shrunken polythene is less ordered and has higher entropy.</p>
+<p>For more information on answering these sorts of questions see the <a href="http://chemed.chem.purdue.edu/genchem/topicreview/bp/ch21/gibbs.php" target="_blank">Bodner Research Web</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/gibbs-41/feed</wfw:commentRss>
+		<slash:comments>41</slash:comments>
+		</item>
+		<item>
+		<title>Enthalpy</title>
+		<link>http://www.revisegamsat.com/chemistry/enthalpy-15</link>
+		<comments>http://www.revisegamsat.com/chemistry/enthalpy-15#comments</comments>
+		<pubDate>Mon, 07 Sep 2009 11:10:56 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Enthalpy]]></category>
+		<category><![CDATA[Sample Questions (Blue Booklet)]]></category>
+		<category><![CDATA[Thermodynamics]]></category>
+		<category><![CDATA[Unit 15]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=15</guid>
+		<description><![CDATA[Enthalpy is heat]]></description>
+				<content:encoded><![CDATA[<p>Enthalpy is heat</p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/MI-RfLYyx0w&#038;color1=0xb1b1b1&#038;color2=0xcfcfcf&#038;hl=en&#038;feature=player_embedded&#038;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/MI-RfLYyx0w&#038;color1=0xb1b1b1&#038;color2=0xcfcfcf&#038;hl=en&#038;feature=player_embedded&#038;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="425" height="344"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/enthalpy-15/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The thermodynamics song</title>
+		<link>http://www.revisegamsat.com/chemistry/the-second-law-of-thermodynamics-song-21</link>
+		<comments>http://www.revisegamsat.com/chemistry/the-second-law-of-thermodynamics-song-21#comments</comments>
+		<pubDate>Mon, 07 Sep 2009 12:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Thermodynamics]]></category>
+		<category><![CDATA[Unit 15]]></category>
+		<category><![CDATA[Unit 33]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=21</guid>
+		<description><![CDATA[Oh you can&#8217;t pass heat from a cooler to a hotter! You can try it if you you like but you&#8217;re far better notter!]]></description>
+				<content:encoded><![CDATA[<p>Oh you can&#8217;t pass heat from a cooler to a hotter! You can try it if you you like but you&#8217;re far better notter!</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/KTHiIwxcexI&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/KTHiIwxcexI&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/the-second-law-of-thermodynamics-song-21/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Thermodynamics, entropy and Gibbs Free Energy introduction from the Chem Guy</title>
+		<link>http://www.revisegamsat.com/chemistry/thermodynamics-introduction-from-the-chem-guy-26</link>
+		<comments>http://www.revisegamsat.com/chemistry/thermodynamics-introduction-from-the-chem-guy-26#comments</comments>
+		<pubDate>Mon, 07 Sep 2009 12:25:15 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Gibbs Free Energy]]></category>
+		<category><![CDATA[Practice Test (Green Booklet)]]></category>
+		<category><![CDATA[Sample Questions (Blue Booklet)]]></category>
+		<category><![CDATA[Thermodynamics]]></category>
+		<category><![CDATA[Unit 15]]></category>
+		<category><![CDATA[Unit 33]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=26</guid>
+		<description><![CDATA[Gibbs free energy and thermodynamics are topic which come up year on year. The Chemistry Guy gives a good introduction to Thermodynamics.]]></description>
+				<content:encoded><![CDATA[<p>Gibbs free energy and thermodynamics are topic which come up year on year. The Chemistry Guy gives a good introduction to Thermodynamics.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/B4SFv_2Skdc&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/B4SFv_2Skdc&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/94p9ZfTjeKc&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/94p9ZfTjeKc&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/m_L2rwbQdE8&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/m_L2rwbQdE8&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/x95klPIOeu4&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/x95klPIOeu4&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/thermodynamics-introduction-from-the-chem-guy-26/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Gamsat Essay Common Themes</title>
+		<link>http://www.revisegamsat.com/essay-questions/gamsat-written-communication-essay-questions-32</link>
+		<comments>http://www.revisegamsat.com/essay-questions/gamsat-written-communication-essay-questions-32#comments</comments>
+		<pubDate>Mon, 07 Sep 2009 14:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Common Themes]]></category>
+		<category><![CDATA[GAMSAT Written Communication Section Essays]]></category>
+		<category><![CDATA[Written Communication]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=32</guid>
+		<description><![CDATA[Each test contains 2 essay questions A and B. These tend to have a common theme. Essay Question A The first of these (A) will probably have a philosophical or social aspect, eg. Wealth and Poverty, Science and Technology or Crime and Punishment. A good way to respond to this is from the perspective of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Each test contains 2 essay questions A and B. These tend to have a common theme.</p>
+<h2><strong>Essay Question A</strong></h2>
+<p>The first of these (A) will probably have a philosophical or social aspect, eg. Wealth and Poverty, Science and Technology or Crime and Punishment. A good way to respond to this is from the perspective of the society you live in.</p>
+<h2><strong>Essay Question B</strong></h2>
+<p>The second of these (B) will have more of a personal theme, eg. Humour and Suffering, Youth and Ageing or Conformity and Originality. A good way to respond to this is from your own perspective as an individual.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/essay-questions/gamsat-written-communication-essay-questions-32/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Introduction to parallel and series circuits</title>
+		<link>http://www.revisegamsat.com/physics/introduction-to-parallel-and-series-circuits-74</link>
+		<comments>http://www.revisegamsat.com/physics/introduction-to-parallel-and-series-circuits-74#comments</comments>
+		<pubDate>Wed, 09 Sep 2009 14:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Electrical Circuits]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Unit 8]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=74</guid>
+		<description><![CDATA[A common question in Gamsat is to estimate the current flowing in a portion of an electrical circuit. The video below (not embeddable) is a good introduction to parallel and serial circuits http://www.youtube.com/watch?v=E8AZBR8Zz04]]></description>
+				<content:encoded><![CDATA[<p>A common question in Gamsat is to estimate the current flowing in a portion of an electrical circuit.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/apHkG4T6QHM&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/apHkG4T6QHM&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>The video below (not embeddable) is a good introduction to parallel and serial circuits</p>
+<p><a href="http://www.youtube.com/watch?v=E8AZBR8Zz04" target="_blank">http://www.youtube.com/watch?v=E8AZBR8Zz04</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/physics/introduction-to-parallel-and-series-circuits-74/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ohms Law</title>
+		<link>http://www.revisegamsat.com/physics/ohms-law-73</link>
+		<comments>http://www.revisegamsat.com/physics/ohms-law-73#comments</comments>
+		<pubDate>Wed, 09 Sep 2009 14:11:32 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Electrical Circuits]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Unit 8]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=73</guid>
+		<description><![CDATA[Current = Voltage / Resistance]]></description>
+				<content:encoded><![CDATA[<p>Current = Voltage / Resistance</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/JRp_iSaVRjE&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/JRp_iSaVRjE&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/FwEz9ygPHiM&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/FwEz9ygPHiM&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/physics/ohms-law-73/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Currents in Parallel and Series Circuits</title>
+		<link>http://www.revisegamsat.com/physics/currents-in-parallel-and-series-circuits-72</link>
+		<comments>http://www.revisegamsat.com/physics/currents-in-parallel-and-series-circuits-72#comments</comments>
+		<pubDate>Wed, 09 Sep 2009 14:24:16 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Electrical Circuits]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Unit 8]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=72</guid>
+		<description><![CDATA[To calculate the current flowing across each globe, for each circuit: Calculate the total resistance by reducing the circuit using ohms law. Resistors in series will all have the same current flowing through them. Resistor in parallel will have a portion of the current flowing through them, so if there are 3 resistors in parallel [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>To calculate the current flowing across each globe, for each circuit:</p>
+<ol>
+<li>Calculate the total resistance by reducing the circuit using ohms law.</li>
+<li>Resistors in series will all have the same current flowing through them.</li>
+<li>Resistor in parallel will have a portion of the current flowing through them, so if there are 3 resistors in parallel and they are all the same then each will have 1/3 of the total current flowing through it.</li>
+</ol>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="560" height="340" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/5bz50FQJriM&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/5bz50FQJriM&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/physics/currents-in-parallel-and-series-circuits-72/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stereoisomers</title>
+		<link>http://www.revisegamsat.com/chemistry/isomers/stereoisomers-287</link>
+		<comments>http://www.revisegamsat.com/chemistry/isomers/stereoisomers-287#comments</comments>
+		<pubDate>Thu, 10 Sep 2009 17:16:09 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Isomers,  Enantiomers and Chiral Carbon]]></category>
+		<category><![CDATA[Unit 14]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=287</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/8qkj9yYvhP4&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/8qkj9yYvhP4&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/isomers/stereoisomers-287/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Alcohols</title>
+		<link>http://www.revisegamsat.com/chemistry/alcohols-160</link>
+		<comments>http://www.revisegamsat.com/chemistry/alcohols-160#comments</comments>
+		<pubDate>Sun, 13 Sep 2009 14:14:45 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Alcohols]]></category>
+		<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Organic Chemistry]]></category>
+		<category><![CDATA[Unit 20]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=160</guid>
+		<description><![CDATA[Alcohols contain an OH group. This usually makes them polar creating strong intramolecular hydrogen bonds so they have much higher melting and boiling points. A Primary Alcohol has the OH group at the end of the molecule. A Secondary Alcohol has the OH chain as a branch. The carbons either side are often referred to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<ol>
+<li>Alcohols contain an OH group.</li>
+<li>This usually makes them polar creating strong intramolecular hydrogen bonds so they have much higher melting and boiling points.</li>
+<li>A Primary Alcohol has the OH group at the end of the molecule.</li>
+<li>A Secondary Alcohol has the OH chain as a branch. The carbons either side are often referred to as R for Rest.</li>
+<li>A Tertiary Alcohol is a secondary alcohol which has another group attached to the same carbon as the OH.</li>
+</ol>
+<p><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/ERwybUxBbQY&#038;hl=en&#038;fs=1&#038;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ERwybUxBbQY&#038;hl=en&#038;fs=1&#038;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/alcohols-160/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ketones, Aldehydes, Ethers and Amines</title>
+		<link>http://www.revisegamsat.com/chemistry/ketones-aldehydes-and-ethers-170</link>
+		<comments>http://www.revisegamsat.com/chemistry/ketones-aldehydes-and-ethers-170#comments</comments>
+		<pubDate>Sun, 13 Sep 2009 14:47:40 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Ketones, Aldehydes, Ethers & Amines]]></category>
+		<category><![CDATA[Organic Chemistry]]></category>
+		<category><![CDATA[Unit 20]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=170</guid>
+		<description><![CDATA[An Aldehyde has a double bonded Oxygen at the end of the Carbon chain Ketones have a double bonded Oxygen side group at a position other than the end of the carbon chain. Ketones have -one at the end of them, eg Butanone Ethers have an Oxygen in the middle of the carbon chain, eg [&#8230;]]]></description>
+				<content:encoded><![CDATA[<ol>
+<li>An Aldehyde has a double bonded Oxygen at the end of the Carbon chain</li>
+<li>Ketones have a double bonded Oxygen side group at a position other than the end of the carbon chain.</li>
+<li>Ketones have -one at the end of them, eg Butanone</li>
+<li>Ethers have an Oxygen in the middle of the carbon chain, eg Methyethylether</li>
+<li>An Amine has an NH2 side group. Eg. Amino Ethane.</li>
+</ol>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/MMXsdJhepPE&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/MMXsdJhepPE&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/chemistry/ketones-aldehydes-and-ethers-170/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mendelian Genetics</title>
+		<link>http://www.revisegamsat.com/sample-questions-blue-booklet/reasoning-in-biological-and-physical-sciences-sample-questions-blue-booklet/unit-15/mendelian-genetics-321</link>
+		<comments>http://www.revisegamsat.com/sample-questions-blue-booklet/reasoning-in-biological-and-physical-sciences-sample-questions-blue-booklet/unit-15/mendelian-genetics-321#comments</comments>
+		<pubDate>Wed, 16 Sep 2009 12:40:23 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Genetics]]></category>
+		<category><![CDATA[Mendelian genetics]]></category>
+		<category><![CDATA[Unit 15]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=321</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/pkYxEy9gF1w&#038;hl=en&#038;fs=1&#038;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pkYxEy9gF1w&#038;hl=en&#038;fs=1&#038;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/sample-questions-blue-booklet/reasoning-in-biological-and-physical-sciences-sample-questions-blue-booklet/unit-15/mendelian-genetics-321/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Log scale</title>
+		<link>http://www.revisegamsat.com/sample-questions-blue-booklet/reasoning-in-biological-and-physical-sciences-sample-questions-blue-booklet/unit-19/log-scale-191</link>
+		<comments>http://www.revisegamsat.com/sample-questions-blue-booklet/reasoning-in-biological-and-physical-sciences-sample-questions-blue-booklet/unit-19/log-scale-191#comments</comments>
+		<pubDate>Thu, 17 Sep 2009 17:32:37 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Log Scale]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Unit 19]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=191</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/pP3NunYYhzk&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/pP3NunYYhzk&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/sample-questions-blue-booklet/reasoning-in-biological-and-physical-sciences-sample-questions-blue-booklet/unit-19/log-scale-191/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

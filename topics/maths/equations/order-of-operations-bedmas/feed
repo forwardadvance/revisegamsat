@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Order of Operations (BEDMAS)</title>
+	<atom:link href="http://www.revisegamsat.com/topics/maths/equations/order-of-operations-bedmas/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>Order of Operations (BEDMAS)</title>
+		<link>http://www.revisegamsat.com/maths/order-of-operations-bedmas-333</link>
+		<comments>http://www.revisegamsat.com/maths/order-of-operations-bedmas-333#comments</comments>
+		<pubDate>Wed, 16 Sep 2009 21:07:51 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Equations]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Order of Operations (BEDMAS)]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=333</guid>
+		<description><![CDATA[Equations must be tackled in a specific order. An acronym to help remember this order is BEDMAS Brackets Exponent Division Multiplication Addition Subtraction For more information and an excellent tutorial see Massey University BEDMAS tutorial]]></description>
+				<content:encoded><![CDATA[<p>Equations must be tackled in a specific order. An acronym to help remember this order is BEDMAS</p>
+<ol>
+<li>Brackets</li>
+<li>Exponent</li>
+<li>Division</li>
+<li>Multiplication</li>
+<li>Addition</li>
+<li>Subtraction</li>
+</ol>
+<p>For more information and an excellent tutorial see <a href="http://mathsfirst.massey.ac.nz/Algebra/OrderOfOp/orderofop.htm" target="_blank">Massey University BEDMAS tutorial</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/maths/order-of-operations-bedmas-333/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

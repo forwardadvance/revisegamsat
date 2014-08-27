@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Revise Gamsat &#187; Interviews</title>
+	<atom:link href="http://www.revisegamsat.com/topics/interviews/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.revisegamsat.com</link>
+	<description>Free Resources and tips to help you pass GAMSAT</description>
+	<lastBuildDate>Wed, 05 Jun 2013 14:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>ABCDE of Medical Ethics</title>
+		<link>http://www.revisegamsat.com/interviews/abcde-of-medical-ethics-463</link>
+		<comments>http://www.revisegamsat.com/interviews/abcde-of-medical-ethics-463#comments</comments>
+		<pubDate>Sat, 09 Jan 2010 01:52:45 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas Johnson]]></dc:creator>
+				<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Interviews]]></category>
+
+		<guid isPermaLink="false">http://www.revisegamsat.com/?p=463</guid>
+		<description><![CDATA[Autonomy Beneficence Confidentiality Do No Harm Equality or Justice]]></description>
+				<content:encoded><![CDATA[<ul>
+<li>Autonomy</li>
+<li>Beneficence</li>
+<li>Confidentiality</li>
+<li>Do No Harm</li>
+<li>Equality or Justice</li>
+</ul>
+<p><iframe width="500" height="375" src="http://www.youtube.com/embed/dGLcYVQeUAE?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.revisegamsat.com/interviews/abcde-of-medical-ethics-463/feed</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+	</channel>
+</rss>
